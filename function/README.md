@@ -1,3 +1,3 @@
-# def -- function
+# def
 
-Simply use def.
+Weight unit converter. kg to lb.

@@ -1,7 +1,10 @@
 # def for define "定義"
+print("kg to lb")
 
-def sum1(a,b):
-    return (a + b)
+kg = int(input("Please enter weight (kg): "))
 
-a = sum1(1,2)
-print(a)
+def converter(weight):
+    ponds = weight / 0.45
+    print(ponds)
+
+converter(kg)
