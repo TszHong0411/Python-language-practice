@@ -1,3 +1,3 @@
 # For in
 
-Print 1 ~ 100
+Loop and print 1 ~ 100
